@@ -1,6 +1,9 @@
-# STM32 Lily58
-
-I aim to make an STM32F072 based Lily58 with MCP23017 IO expander.
+# STM32F072 Lily58
+* Full SMD MCU and components.
+* Original parts kept true to original placement where ever possible.
+* Reversible PCB to reduce costs.
+* USB C port on the left side.
+* MCP23017 IO expander to reduce cost over two MCUs.
 
 
 # Lily58
