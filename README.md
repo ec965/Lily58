@@ -1,10 +1,10 @@
-# STM32F072 Lily58
+# SMD Lily58
+* ATMEGA32U4 and STM32F072 variants
 * Full SMD MCU and components.
 * Original parts kept true to original placement where ever possible.
 * Reversible PCB to reduce costs.
 * USB C port on the left side.
 * MCP23017 IO expander to reduce cost over two MCUs.
-
 
 # Lily58
 Lily58 is 6*4+4keys column-staggered split keyboard.
